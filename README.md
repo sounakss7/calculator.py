@@ -27,7 +27,6 @@ cd calculator-desktop
 
 ### 2. Set Up a Virtual Environment
 ```bash
-Copy code
 python -m venv myenv
 source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
 ```
