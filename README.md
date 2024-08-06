@@ -70,7 +70,7 @@ calculator-desktop/
 Feel free to fork the repository and submit pull requests. If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License]() - see the LICENSE file for details.
 
 ## Acknowledgements
 Tkinter: Python's standard GUI library used for building the graphical interface.
