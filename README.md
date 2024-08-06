@@ -1,5 +1,8 @@
 # Desktop Calculator
 
+![Calculator Screenshot](https://raw.githubusercontent.com/xanmoy/calculator-desktop/main/media/Screenshot%20from%202024-08-07%2003-33-56.png)
+
+
 A simple desktop calculator application built using Python and Tkinter. This application performs basic arithmetic operations and can be compiled into a standalone executable using PyInstaller.
 
 ## Features
