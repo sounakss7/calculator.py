@@ -87,5 +87,3 @@ PyInstaller: Tool used for packaging Python applications into standalone executa
 7. **Contributing**: Guidelines for contributing to the project.
 8. **License**: Licensing information.
 9. **Acknowledgements**: Credit any libraries or tools used in the project.
-
-Feel free to customize this template based on your specific needs or additional features of your project.
